@@ -10,6 +10,8 @@ public class Login extends JFrame{
         setTitle("Seja Bem-Vindo");
         setSize(360,300);
         add(p_panel);
+        setLocationRelativeTo(null);
+        setResizable(false);
     }
 
     private JButton btn_login;
