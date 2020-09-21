@@ -7,10 +7,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="TelaLogin" />
-    <orderEntry type="module" module-name="TelaHome" />
-    <orderEntry type="module" module-name="TelaCadastro" />
-    <orderEntry type="module" module-name="TelaPainel" />
-    <orderEntry type="module" module-name="TelaVisualizarPost-it" />
   </component>
 </module>

@@ -16,8 +16,8 @@ public class Login extends JFrame{
 
     private JButton btn_login;
     private JPanel p_panel;
-    private JTextField textField1;
     private JTextField textField2;
+    private JPasswordField passwordField1;
 
 
 }

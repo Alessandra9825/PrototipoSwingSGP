@@ -3,9 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PrototipoSGP.iml" filepath="$PROJECT_DIR$/PrototipoSGP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TelaCadastrarEventos/TelaCadastrarEventos.iml" filepath="$PROJECT_DIR$/TelaCadastrarEventos/TelaCadastrarEventos.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelaCadastro/TelaCadastro.iml" filepath="$PROJECT_DIR$/TelaCadastro/TelaCadastro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TelaCalendarioEvento/TelaCalendarioEvento.iml" filepath="$PROJECT_DIR$/TelaCalendarioEvento/TelaCalendarioEvento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TelaContaCorrente/TelaContaCorrente.iml" filepath="$PROJECT_DIR$/TelaContaCorrente/TelaContaCorrente.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelaHome/TelaHome.iml" filepath="$PROJECT_DIR$/TelaHome/TelaHome.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelaLogin/TelaLogin.iml" filepath="$PROJECT_DIR$/TelaLogin/TelaLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TelaPainel/TelaPainel.iml" filepath="$PROJECT_DIR$/TelaPainel/TelaPainel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TelaVisualizarPost-it/TelaVisualizarPost-it.iml" filepath="$PROJECT_DIR$/TelaVisualizarPost-it/TelaVisualizarPost-it.iml" />
     </modules>
   </component>
 </project>

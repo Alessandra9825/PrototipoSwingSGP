@@ -4,7 +4,7 @@ import Login.Login;
 public class Main {
     public static void main (String[] args)
     {
-        telaCadastro telaLogin = new telaCadastro();
+        telaVisualizarPostIt telaLogin = new telaVisualizarPostIt();
         telaLogin.setVisible(true);
     }
 
