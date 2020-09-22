@@ -12,6 +12,10 @@
       <module fileurl="file://$PROJECT_DIR$/TelaLogin/TelaLogin.iml" filepath="$PROJECT_DIR$/TelaLogin/TelaLogin.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelaPainel/TelaPainel.iml" filepath="$PROJECT_DIR$/TelaPainel/TelaPainel.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelaVisualizarPost-it/TelaVisualizarPost-it.iml" filepath="$PROJECT_DIR$/TelaVisualizarPost-it/TelaVisualizarPost-it.iml" />
+      <module fileurl="file://$PROJECT_DIR$/detalharFinanca/detalharFinanca.iml" filepath="$PROJECT_DIR$/detalharFinanca/detalharFinanca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/telaConfiguracao/telaConfiguracao.iml" filepath="$PROJECT_DIR$/telaConfiguracao/telaConfiguracao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/telaDashboard/telaDashboard.iml" filepath="$PROJECT_DIR$/telaDashboard/telaDashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/telaGasto/telaGasto.iml" filepath="$PROJECT_DIR$/telaGasto/telaGasto.iml" />
     </modules>
   </component>
 </project>
