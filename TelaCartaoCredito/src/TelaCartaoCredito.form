@@ -101,7 +101,7 @@
             </constraints>
             <properties>
               <font name="Source Code Pro" size="28"/>
-              <text value="Cadastrar Saldo Débito"/>
+              <text value="Cadastrar Cartão de Credito"/>
             </properties>
           </component>
         </children>
