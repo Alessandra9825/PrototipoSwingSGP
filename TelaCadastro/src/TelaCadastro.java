@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class telaCadastro extends  JFrame{
+public class TelaCadastro extends  JFrame{
     private JTextField textField1;
     private JTextField textField2;
     private JTextField textField4;
@@ -11,7 +11,7 @@ public class telaCadastro extends  JFrame{
     private JButton cadastrarButton;
     private JPanel contanier;
 
-    public telaCadastro()
+    public TelaCadastro()
     {
         setTitle("Cadastro");
         setSize(550,500);

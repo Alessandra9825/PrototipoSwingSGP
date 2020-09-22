@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class telaCalendarioEvento {
+public class TelaCalendarioEvento {
     private JButton inserirButton;
     private JButton deletarButton;
     private JButton alterarButton;

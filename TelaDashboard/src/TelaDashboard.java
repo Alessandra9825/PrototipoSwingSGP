@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class telaDashboard {
+public class TelaDashboard {
     private JButton finançasButton;
     private JButton calendarioButton;
     private JButton painelButton;

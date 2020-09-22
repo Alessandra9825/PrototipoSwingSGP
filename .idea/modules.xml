@@ -6,17 +6,17 @@
       <module fileurl="file://$PROJECT_DIR$/TelaCadastrarEventos/TelaCadastrarEventos.iml" filepath="$PROJECT_DIR$/TelaCadastrarEventos/TelaCadastrarEventos.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelaCadastro/TelaCadastro.iml" filepath="$PROJECT_DIR$/TelaCadastro/TelaCadastro.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelaCalendarioEvento/TelaCalendarioEvento.iml" filepath="$PROJECT_DIR$/TelaCalendarioEvento/TelaCalendarioEvento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TelaConfiguracao/TelaConfiguracao.iml" filepath="$PROJECT_DIR$/TelaConfiguracao/TelaConfiguracao.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelaContaCorrente/TelaContaCorrente.iml" filepath="$PROJECT_DIR$/TelaContaCorrente/TelaContaCorrente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TelaDashboard/TelaDashboard.iml" filepath="$PROJECT_DIR$/TelaDashboard/TelaDashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TelaDetalharFinanca/TelaDetalharFinanca.iml" filepath="$PROJECT_DIR$/TelaDetalharFinanca/TelaDetalharFinanca.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelaFinanca/TelaFinanca.iml" filepath="$PROJECT_DIR$/TelaFinanca/TelaFinanca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TelaGasto/TelaGasto.iml" filepath="$PROJECT_DIR$/TelaGasto/TelaGasto.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelaHome/TelaHome.iml" filepath="$PROJECT_DIR$/TelaHome/TelaHome.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelaLogin/TelaLogin.iml" filepath="$PROJECT_DIR$/TelaLogin/TelaLogin.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelaPainel/TelaPainel.iml" filepath="$PROJECT_DIR$/TelaPainel/TelaPainel.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelaSaldoDebito/TelaSaldoDebito.iml" filepath="$PROJECT_DIR$/TelaSaldoDebito/TelaSaldoDebito.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelaVisualizarPost-it/TelaVisualizarPost-it.iml" filepath="$PROJECT_DIR$/TelaVisualizarPost-it/TelaVisualizarPost-it.iml" />
-      <module fileurl="file://$PROJECT_DIR$/detalharFinanca/detalharFinanca.iml" filepath="$PROJECT_DIR$/detalharFinanca/detalharFinanca.iml" />
-      <module fileurl="file://$PROJECT_DIR$/telaConfiguracao/telaConfiguracao.iml" filepath="$PROJECT_DIR$/telaConfiguracao/telaConfiguracao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/telaDashboard/telaDashboard.iml" filepath="$PROJECT_DIR$/telaDashboard/telaDashboard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/telaGasto/telaGasto.iml" filepath="$PROJECT_DIR$/telaGasto/telaGasto.iml" />
     </modules>
   </component>
 </project>

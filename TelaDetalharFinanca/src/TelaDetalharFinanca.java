@@ -1,9 +1,8 @@
 import javax.swing.*;
 
-public class telaConfiguracao {
+public class TelaDetalharFinanca {
     private JTextField textField2;
-    private JComboBox comboBox1;
-    private JButton salvarButton;
+    private JButton alterarButton;
     private JTextField textField1;
     private JButton finançasButton;
     private JButton calendarioButton;
@@ -11,7 +10,6 @@ public class telaConfiguracao {
     private JButton dashboardButton;
     private JButton configuraçõesButton;
     private JTextField textField3;
-    private JComboBox comboBox2;
+    private JButton deletarButton;
     private JTextField textField4;
-    private JButton pesquisarButton;
 }

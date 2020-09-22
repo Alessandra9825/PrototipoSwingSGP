@@ -1,8 +1,9 @@
 import javax.swing.*;
 
-public class detalharFinanca {
+public class TelaVisualizarPostIt extends JFrame {
     private JTextField textField2;
-    private JButton alterarButton;
+    private JComboBox comboBox1;
+    private JButton cadrastarButton;
     private JTextField textField1;
     private JButton finançasButton;
     private JButton calendarioButton;
@@ -10,6 +11,4 @@ public class detalharFinanca {
     private JButton dashboardButton;
     private JButton configuraçõesButton;
     private JTextField textField3;
-    private JButton deletarButton;
-    private JTextField textField4;
 }

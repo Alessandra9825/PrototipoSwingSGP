@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class telaGasto {
+public class TelaGasto {
     private JTextField textField2;
     private JButton cadrastarButton;
     private JTextField textField1;
