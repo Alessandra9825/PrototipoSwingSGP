@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class TelaSaldoDebito {
+public class TelaCartaoCredito {
     private JButton finançasButton;
     private JButton calendarioButton;
     private JButton painelButton;
