@@ -8,6 +8,8 @@ public class Main {
 
         telaCartaoCredito cartao = new telaCartaoCredito();
         cartao.setVisible(true);
+
+        
     }
 
 }
