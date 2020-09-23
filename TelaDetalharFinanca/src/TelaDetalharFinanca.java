@@ -13,6 +13,7 @@ public class TelaDetalharFinanca extends JFrame{
     private JButton deletarButton;
     private JTextField textField4;
     private JPanel contanier;
+    private JButton cancelarButton;
 
     public TelaDetalharFinanca()
     {

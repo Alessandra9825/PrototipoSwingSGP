@@ -15,6 +15,7 @@ public class TelaConfiguracao extends  JFrame {
     private JTextField textField4;
     private JButton pesquisarButton;
     private JPanel contanier;
+    private JButton cancelarButton;
 
     public TelaConfiguracao()
     {

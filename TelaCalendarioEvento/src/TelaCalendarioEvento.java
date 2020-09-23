@@ -18,6 +18,5 @@ public class TelaCalendarioEvento extends JFrame {
         setSize(580,500);
         add(contanier);
         setLocationRelativeTo(null);
-        setResizable(false);
     }
 }

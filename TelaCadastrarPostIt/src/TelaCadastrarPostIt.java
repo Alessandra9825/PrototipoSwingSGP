@@ -12,6 +12,7 @@ public class TelaCadastrarPostIt extends JFrame {
     private JButton configuraçõesButton;
     private JTextField textField3;
     private JPanel contanier;
+    private JButton cancelarButton;
 
     public TelaCadastrarPostIt()
     {

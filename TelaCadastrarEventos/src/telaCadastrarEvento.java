@@ -2,7 +2,6 @@ import javax.swing.*;
 
 public class telaCadastrarEvento extends JFrame{
     private JTextField textField2;
-    private JButton cadrastarButton;
     private JTextField textField1;
     private JButton finançasButton;
     private JButton calendarioButton;
@@ -14,6 +13,8 @@ public class telaCadastrarEvento extends JFrame{
     private JComboBox comboBox3;
     private JComboBox comboBox4;
     private JPanel contanier;
+    private JButton cadastrarButton;
+    private JButton cancelarButton;
 
     public telaCadastrarEvento()
     {

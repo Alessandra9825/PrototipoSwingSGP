@@ -12,6 +12,7 @@ public class telaContaCorrente extends JFrame{
     private JButton dashboardButton;
     private JButton configuraçõesButton;
     private JPanel contanier;
+    private JButton cancelarButton;
 
     public telaContaCorrente()
     {

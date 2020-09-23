@@ -12,6 +12,7 @@ public class TelaGasto extends JFrame{
     private JTextField textField3;
     private JComboBox comboBox1;
     private JPanel contanier;
+    private JButton cancelarButton;
 
     public TelaGasto()
     {

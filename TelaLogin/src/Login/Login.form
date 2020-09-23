@@ -43,7 +43,7 @@
         </constraints>
         <properties>
           <font name="Source Code Pro" size="18"/>
-          <text value="Username"/>
+          <text value="E-mail"/>
         </properties>
       </component>
       <component id="d3612" class="javax.swing.JLabel">

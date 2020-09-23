@@ -10,6 +10,7 @@ public class TelaCadastro extends  JFrame{
     private JTabbedPane tabbedPane1;
     private JButton cadastrarButton;
     private JPanel contanier;
+    private JButton cancelarButton;
 
     public TelaCadastro()
     {

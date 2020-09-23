@@ -14,6 +14,7 @@ public class telaDetalharPostIt extends JFrame{
     private JButton deletarButton;
     private JButton alterarButton;
     private JPanel container;
+    private JButton cancelarButton;
 
     public telaDetalharPostIt()
     {

@@ -12,6 +12,7 @@ public class telaCartaoCredito extends JFrame {
     private JTextField textField3;
     private JTextField textField4;
     private JButton cadastrarButton;
+    private JButton cancelarButton;
 
     public telaCartaoCredito()
     {
