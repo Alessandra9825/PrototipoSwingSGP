@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class TelaConfiguracao {
+public class TelaConfiguracao extends  JFrame {
     private JTextField textField2;
     private JComboBox comboBox1;
     private JButton salvarButton;
@@ -14,4 +14,14 @@ public class TelaConfiguracao {
     private JComboBox comboBox2;
     private JTextField textField4;
     private JButton pesquisarButton;
+    private JPanel contanier;
+
+    public TelaConfiguracao()
+    {
+        setTitle("Configuração");
+        setSize(580,500);
+        add(contanier);
+        setLocationRelativeTo(null);
+        setResizable(false);
+    }
 }

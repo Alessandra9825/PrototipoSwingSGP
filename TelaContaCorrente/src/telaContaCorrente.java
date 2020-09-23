@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class talaContaCorrente {
+public class telaContaCorrente extends JFrame{
     private JTextField textField1;
     private JTextField textField2;
     private JTextArea textArea1;
@@ -11,4 +11,14 @@ public class talaContaCorrente {
     private JButton painelButton;
     private JButton dashboardButton;
     private JButton configuraçõesButton;
+    private JPanel contanier;
+
+    public telaContaCorrente()
+    {
+        setTitle("Conta Corrente");
+        setSize(580,500);
+        add(contanier);
+        setLocationRelativeTo(null);
+        setResizable(false);
+    }
 }

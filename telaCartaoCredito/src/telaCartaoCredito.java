@@ -1,6 +1,7 @@
 import javax.swing.*;
 
-public class TelaSaldoDebito {
+public class telaCartaoCredito extends JFrame {
+    private JPanel contanier;
     private JButton finançasButton;
     private JButton calendarioButton;
     private JButton painelButton;
@@ -11,4 +12,13 @@ public class TelaSaldoDebito {
     private JTextField textField3;
     private JTextField textField4;
     private JButton cadastrarButton;
+
+    public telaCartaoCredito()
+    {
+        setTitle("Cartão Crédito");
+        setSize(580,500);
+        add(contanier);
+        setLocationRelativeTo(null);
+        setResizable(false);
+    }
 }

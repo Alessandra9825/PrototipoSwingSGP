@@ -16,7 +16,7 @@ public class TelaPainel extends JFrame{
 
     public TelaPainel()
     {
-        setTitle("Seja Bem-Vindo");
+        setTitle("Painel");
         setSize(360,300);
         add(contanier);
         setLocationRelativeTo(null);

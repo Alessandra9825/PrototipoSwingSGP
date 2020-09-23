@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class telaCadastrarEvento {
+public class telaCadastrarEvento extends JFrame{
     private JTextField textField2;
     private JButton cadrastarButton;
     private JTextField textField1;
@@ -13,4 +13,14 @@ public class telaCadastrarEvento {
     private JTextField textField3;
     private JComboBox comboBox3;
     private JComboBox comboBox4;
+    private JPanel contanier;
+
+    public telaCadastrarEvento()
+    {
+        setTitle("Evento");
+        setSize(580,500);
+        add(contanier);
+        setLocationRelativeTo(null);
+        setResizable(false);
+    }
 }

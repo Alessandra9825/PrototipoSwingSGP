@@ -1,8 +1,9 @@
 import javax.swing.*;
 
-public class TelaGasto extends JFrame{
+public class telaDetalharPostIt extends JFrame{
+    private JPanel contanier;
     private JTextField textField2;
-    private JButton cadrastarButton;
+    private JComboBox comboBox1;
     private JTextField textField1;
     private JButton finançasButton;
     private JButton calendarioButton;
@@ -10,12 +11,13 @@ public class TelaGasto extends JFrame{
     private JButton dashboardButton;
     private JButton configuraçõesButton;
     private JTextField textField3;
-    private JComboBox comboBox1;
-    private JPanel contanier;
+    private JButton deletarButton;
+    private JButton alterarButton;
+    private JPanel container;
 
-    public TelaGasto()
+    public telaDetalharPostIt()
     {
-        setTitle("Despesa");
+        setTitle("Post-it");
         setSize(580,500);
         add(contanier);
         setLocationRelativeTo(null);
